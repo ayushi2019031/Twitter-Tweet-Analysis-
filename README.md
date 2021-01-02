@@ -14,3 +14,10 @@ Part1:
 Part2:  
 1. Report  
 2. Code files  
+
+
+References:
+1. https://www.geeksforgeeks.org/generating-word-cloud-python/
+2. https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
+3. https://www.geeksforgeeks.org/bar-plot-in-matplotlib/#:~:text=A%20bar%20plot%20or%20bar,comparisons%20between%20the%20discrete%20categories.
+
